@@ -32,4 +32,3 @@ function new_image(get_image) {
         canvas.add(block_object);
     });
 }
-player_update();
