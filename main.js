@@ -5,7 +5,7 @@ player_y = 10;
 image_width = 30;
 image_height = 30;
 player_object = "";
-image_object = "";
+block_object = "";
 
 function player_update() {
     fabric.Image.fromURL("player.png", function (Img) {
